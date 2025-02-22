@@ -1,0 +1,112 @@
+<html>
+<head>
+    <title>Telegram</title>
+</head>
+<body>
+    <nav> 
+        <ul>
+            <li><a href="#">Головна</a></li>
+            <li><a href="#">Контакти</a></li>
+            <li><a href="#">Про Telegram</a></li>
+            <li><a href="#">Новини</a></li>
+        </ul>
+    </nav>
+
+    <header class="header-image">
+        <img src="https://telegram.org/img/t_logo.png" alt="Telegram" />
+    </header>
+
+    <main>
+        <section>
+            <h1>Про Telegram</h1>
+            <p>Telegram — це швидкий, безпечний і багатофункціональний месенджер, який став невід'ємною частиною життя мільйонів людей по всьому світу. Його ключові можливості включають</p>
+            <ul>
+                <li>Миттєвий обмін повідомленнями з друзями та колегами</li>
+                <li>Синхронізація на всіх ваших пристроях</li>
+                <li>Публічні та приватні канали для будь-яких інтересів</li>
+                <li>Додатки для Windows, macOS, Android, iOS і веб-версія</li>
+                <li>Повна підтримка мультимедіа — фото, відео, документи</li>
+            </ul>
+            <img src="https://appleinsider.ru/wp-content/uploads/2024/08/tg_chat_save_head.jpeg"  class="section-image">
+        </section>
+
+        <section class="reasons">
+            <h2>Чому Telegram популярний?</h2>
+            <ul>
+                <li>Стабільна робота навіть при слабкому інтернеті</li>
+                <li>Підтримка секретних чатів із повним шифруванням</li>
+                <li>Можливість створення ботів для бізнесу та розваг</li>
+                <li>Необмежений простір для обміну файлами</li>
+            </ul>
+            <img src="https://www.site2b.ua/wp-content/uploads/2023/10/telegram-channel-efficiency-min.png"  class="section-image">
+        </section>
+
+        <section class="table-container">
+            <h2>Плюси і мінуси Telegram</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Плюси</th>
+                        <th>Мінуси</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>+ Безкоштовний без реклами</td>
+                        <td>- Шифрування не увімкнене за замовчуванням</td>
+                    </tr>
+                    <tr>
+                        <td>+ Великі групи та канали</td>
+                        <td>- Іноді складно для новачків</td>
+                    </tr>
+                    <tr>
+                        <td>+ Можливість завантаження великих файлів</td>
+                        <td>- Залежність від хмарних сервісів</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section class="latest-news">
+            <h2>Останні новини</h2>
+            <div class="news-container">
+                <div class="news-item">
+                    <img src="https://telegram.org/file/464001222/10d36/Ea_XKwWG7aE.628568/8d3701ab8a4b496a63" alt="Telegram Updates">
+                    <div class="news-text">
+                        <h3>Нове оновлення Telegram</h3>
+                        <p>Додані нові можливості для адміністраторів каналів та удосконалено пошук повідомлень</p>
+                    </div>
+                </div>
+
+                <div class="news-item">
+                    <img src="https://telegram.org/file/464001265/f87b/RogrdL36QD4.501960/709588697d1f4d4c5d" alt="Фільтри для пошуку">
+                    <div class="news-text">
+                        <h3>Фільтри для пошуку повідомлень</h3>
+                        <p>Розширені фільтри дозволяють швидше знаходити важливу інформацію у великих чатах</p>
+                    </div>
+                </div>
+
+                <div class="news-item">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDNBA9RmWE6notQXwN9SJ6hOJdiqViUqiL4g&s" alt="Telegram Bots">
+                    <div class="news-text">
+                        <h3>Боти для автоматизації</h3>
+                        <p>Боти Telegram допомагають автоматизувати завдання, від управління каналами до інтеграції з іншими сервісами</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <h2>Контакти</h2>
+        <p>Email: ttdv9294@gmail.com</p>
+        <p>Телефон: +380 68 910 50 63</p>
+        <p>Адреса: вул. Суворова, 4, Мукачево, Україна</p>
+        <div class="social-links">
+            <a href="#"><img src="https://img.icons8.com/color/48/telegram-app.png" alt="Telegram"></a>
+            <a href="#"><img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook"></a>
+            <a href="#"><img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"></a>
+        </div>
+    </footer>
+</body>
+</html>
